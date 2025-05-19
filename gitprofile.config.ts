@@ -72,7 +72,7 @@ const CONFIG = {
   },
   seo: {
     title: 'Tonny muchui',
-    description: 'I’m Tonny Muchui, a Full-Stack Software Engineer skilled in Kotlin, Java, Android, Spring Boot, React.js, AWS, GCP, Docker, and microservices.',
+    description: 'Java Fullstack Developer with over 3 years of experience building large-scale, cross-platform applications using microservices and event-driven systems. I have domain experience and am passionate about clean code, fast delivery. I focus on putting users first and meeting business needs.',
     imageURL: 'https://i.postimg.cc/wxyHf7bt/IMG-20181218-WA0005.jpg',
   },
   social: {
@@ -99,7 +99,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://drive.google.com/file/d/1GnTZlqaarh0iO6xfKRJ3EqTbcNuhA4-I/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
+      'https://docs.google.com/document/d/1baVivmM-4L9K-dcspYnhDgfQGXYymN2p8h6GwAR3kUw/edit?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Java',
@@ -127,14 +127,14 @@ const CONFIG = {
   experiences: [
     {
       company: 'Counter1serve- FinTech',
-      position: 'Software Developer',
-      from: 'January 2021',
-      to: 'December 2021',
+      position: 'Software Engineer',
+      from: 'May 2021',
+      to: 'June 2023',
       companyLink: 'https://counter1serve.com/',
     },
     {
       company: 'LISHELIVING LTD- HealthCare',
-      position: 'Software Developer Internship',
+      position: 'Software Engineer Internship',
       from: 'January 2019',
       to: 'December 2019',
       companyLink: 'https://www.lisheliving.com/',
@@ -156,7 +156,13 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'JOMO KENYATTA UNIVERSITY OF SCIENCE AND TECHNOLOGY.',
+      institution: 'Microverse',
+      degree: 'Full-Stack Web Development',
+      from: '2022',
+      to: '2023',
+    },
+    {
+      institution: 'JOMO KENYATTA UNIVERSITY OF SCIENCE AND TECHNOLOGY',
       degree: 'Bachelor of Information Technology',
       from: '2019',
       to: '2022',
